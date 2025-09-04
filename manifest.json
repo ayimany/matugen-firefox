@@ -1,0 +1,6 @@
+{
+  "manifest_version": 2,
+  "name": "Matugen Firefox",
+  "version": "1.0",
+  "description": "Allows theming firefox via Matugen",
+}
